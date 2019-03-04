@@ -1,2 +1,3 @@
 .idea
-guess_game/target
+guess_game/**/target/*
+guess_game/target/*
